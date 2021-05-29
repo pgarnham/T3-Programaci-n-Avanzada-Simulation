@@ -1,0 +1,168 @@
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 97.34350519115377
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.16197082084970607 | ganadores: -1.0112985066248497| kibitzers: -0.007874015748031496 | ludopatas: -2.695108384793791 | millonarios: -4.2655705683203635
+
+Promedio de estadias: 54.625385992667255
+
+Estadías por personalidad --->dieciocheros: 0 | ganadores: 45.86488337516785| kibitzers: 0 | ludopatas: 51.79975375262174 |millonarios: 69.76344633102417
+
+Promedio de ganancia por dia: 615.6241628525279
+
+Tragamonedas generó más ganancias: $ 433.5342432744801 vs ruleta que genero: 134.27073852507715
+
+Porcentaje de tramposos --->0.0 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 98.7158908507223%  |  pobres: 0.0%
+
+Visitantes Ruleta: 314.0 | Visitantes Tragamonedas: 326.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 99.22927886769538
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.13676662268399611 | ganadores: -0.1449231548453103| kibitzers: 0.0 | ludopatas: -0.5674077654071263 | millonarios: -1.985985273670528
+
+Promedio de estadias: 59.62148210941217
+
+Estadías por personalidad --->dieciocheros: 79.04389250278473 | ganadores: 65.4554238319397| kibitzers: 0 | ludopatas: 51.61357572343614 |millonarios: 55.445882943960335
+
+Promedio de ganancia por dia: 229.83768158589203
+
+Tragamonedas generó más ganancias: $ 133.7391629368619 vs ruleta que genero: 2.463765292206091
+
+Porcentaje de tramposos --->0.1631321370309951 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 98.85807504078304%  |  pobres: 0.0%
+
+Visitantes Ruleta: 306.0 | Visitantes Tragamonedas: 319.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 98.79627785702363
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.02453590174148147 | ganadores: -0.02490763738874209| kibitzers: -0.002318663536434396 | ludopatas: -0.05839857762099533 | millonarios: -1.0325200218943233
+
+Promedio de estadias: 55.06976683119424
+
+Estadías por personalidad --->dieciocheros: 72.12446975708008 | ganadores: 56.038458198308945| kibitzers: 0 | ludopatas: 52.96133793890476 |millonarios: 54.9444799478664
+
+Promedio de ganancia por dia: 484.08782221165256
+
+Tragamonedas generó más ganancias: $ 58.18113764977839 vs ruleta que genero: -3.7302915533253156
+
+Porcentaje de tramposos --->0.0 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 99.0356394129979%  |  pobres: 0.0%
+
+Visitantes Ruleta: 1207.0 | Visitantes Tragamonedas: 1249.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 98.51963601614659
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.010835809367538007 | ganadores: -0.03386450058181842| kibitzers: -0.0030072240467582372 | ludopatas: -0.2856506111776257 | millonarios: -0.814412086981824
+
+Promedio de estadias: 55.06020425981091
+
+Estadías por personalidad --->dieciocheros: 81.21130752563477 | ganadores: 53.461108135140464| kibitzers: 0 | ludopatas: 56.50351528632335 |millonarios: 53.36064820157157
+
+Promedio de ganancia por dia: 394.204943393635
+
+Tragamonedas generó más ganancias: $ 195.30021218994162 vs ruleta que genero: 8.674922174640727
+
+Porcentaje de tramposos --->0.0 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 99.00990099009901%  |  pobres: 0.0%
+
+Visitantes Ruleta: 1274.0 | Visitantes Tragamonedas: 1274.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 97.85144342601798
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.004390150615517506 | ganadores: -0.0658751162658088| kibitzers: -0.001151956650444421 | ludopatas: -0.2507140864829137 | millonarios: -1.2916033813915488
+
+Promedio de estadias: 58.338863221458766
+
+Estadías por personalidad --->dieciocheros: 73.2656759262085 | ganadores: 57.842746154682054| kibitzers: 93.91287899017334 | ludopatas: 54.29735707385199 |millonarios: 58.82319104671478
+
+Promedio de ganancia por dia: 557.7862457873762
+
+Tragamonedas generó más ganancias: $ 162.02029718015132 vs ruleta que genero: 11.584216069360878
+
+Porcentaje de tramposos --->0.0 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 98.76923076923076%  |  pobres: 0.0%
+
+Visitantes Ruleta: 1135.0 | Visitantes Tragamonedas: 1131.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 100.44377671676294
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: 0.0 | ganadores: 0.0| kibitzers: 0.0 | ludopatas: -0.05078124999999967 | millonarios: -0.9769222922594933
+
+Promedio de estadias: 51.48533661639104
+
+Estadías por personalidad --->dieciocheros: 61.3967465877533 | ganadores: 52.65290905490066| kibitzers: 87.31135678291321 | ludopatas: 37.41728159708855 |millonarios: 61.13854537226937
+
+Promedio de ganancia por dia: 735.7812396506226
+
+Tragamonedas generó más ganancias: $ 104.8688632869083 vs ruleta que genero: 17.294353321931666
+
+Porcentaje de tramposos --->0.09523809523809523 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 99.4920634920635%  |  pobres: 0.0%
+
+Visitantes Ruleta: 1612.0 | Visitantes Tragamonedas: 1596.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 99.57158857492001
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.010333863275039677 | ganadores: -0.052901033788040716| kibitzers: -0.0016207455429497568 | ludopatas: -0.08591546925496296 | millonarios: -0.9428902475957218
+
+Promedio de estadias: 50.55311381618182
+
+Estadías por personalidad --->dieciocheros: 84.49161060651143 | ganadores: 50.100451951556735| kibitzers: 86.22563242912292 | ludopatas: 52.15797887830173 |millonarios: 45.91301551380673
+
+Promedio de ganancia por dia: 560.3184961273863
+
+Tragamonedas generó más ganancias: $ 112.84154166522018 vs ruleta que genero: -6.965658039135718
+
+Porcentaje de tramposos --->0.09746588693957114 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 99.44769330734243%  |  pobres: 0.0%
+
+Visitantes Ruleta: 1533.0 | Visitantes Tragamonedas: 1586.0
+
+----------------------------------------------------------------------
+Resultados de la Simulacion
+----------------------------------------------------------------------
+Promedio de dineros finales de los clientes: 99.48953866507001
+
+Promedio de ganancia/perdida por personalidades --->dieciocheros: -0.02734724064508449 | ganadores: -0.05412424372124002| kibitzers: -0.0035370625021863525 | ludopatas: -0.09407489301157729 | millonarios: -0.9197340197910969
+
+Promedio de estadias: 26.654271185398102
+
+Estadías por personalidad --->dieciocheros: 38.864412784576416 | ganadores: 26.82442796230316| kibitzers: 34.97617435455322 | ludopatas: 30.93850338459015 |millonarios: 21.50391187387354
+
+Promedio de ganancia por dia: 244.12492905938552
+
+Tragamonedas generó más ganancias: $ 109.11865320735757 vs ruleta que genero: 23.21306373864965
+
+Porcentaje de tramposos --->0.06472491909385113 %
+
+Motivos por los que la gente se va --->tramposos: 0.0%  | aburridos: 98.51132686084142%  |  pobres: 0.0%
+
+Visitantes Ruleta: 779.0 | Visitantes Tragamonedas: 782.0
+
